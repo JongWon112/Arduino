@@ -92,5 +92,7 @@ void BluRq(String msg){
   rq_msg = "";
 }
 </code>
-</pre?
+</pre>
+
+- 시연 영상
  
