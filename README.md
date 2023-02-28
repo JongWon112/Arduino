@@ -96,5 +96,5 @@ void BluRq(String msg){
 
 - 시연 영상<br>
  ![Door Lock](https://github.com/JongWon112/Arduino/blob/main/images/DoorLock.mp4) <br>
- ![Serial 통신](https://github.com/JongWon112/Arduino/blob/main/KakaoTalk_20230227_173603421.mp4)
+ ![Serial 통신](https://github.com/JongWon112/Arduino/blob/main/images/Serial%ED%86%B5%EC%8B%A0.mp4)
  
