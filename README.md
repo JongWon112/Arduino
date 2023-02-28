@@ -95,5 +95,5 @@ void BluRq(String msg){
 </pre>
 
 - 시연 영상
- ![Door Lock](https://raw.githubusercontent.com/JongWon112/studyASPNET/main/images/html_screen01.png)
+ ![Door Lock](https://github.com/JongWon112/Arduino/blob/main/KakaoTalk_20230227_172952279.mp4)
 Door Lock 
